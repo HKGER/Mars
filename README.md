@@ -1,2 +1,2 @@
 # Mars
-First project!
+First project! Have no idea of coding yet but getting there
